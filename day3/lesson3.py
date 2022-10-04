@@ -1,12 +1,3 @@
-print("Hello World")
-name = "levani"
-surname = "papava"
-age = 35
-height = 189.5
-is_lawyer = True
-
-print(name + " " + surname + " " + str(age) + " " + str(height) + " " + str(is_lawyer))
-
 name2 = "levani" 
 print(name2.lower())
 name3 = " papava "
@@ -29,4 +20,3 @@ print(name4.strip())
 print(len(name4))
 print(name4.replace("a", "*"))
 print(name3.replace("a","#"))
-
